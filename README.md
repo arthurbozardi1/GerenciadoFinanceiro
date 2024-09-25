@@ -27,3 +27,6 @@ Descrição: Primis efficitur tincidunt primis rhoncus taciti. Adipiscing conubi
 #6757
 Nome da branch: fix/6757-branch5
 Descrição: Dis nascetur egestas posuere condimentum ut ipsum platea sociosqu. Cursus vestibulum blandit ridiculus montes potenti sed ac. 
+
+hotfix/correcao_necessaria
+Descrição: Branch para correção emergencial
