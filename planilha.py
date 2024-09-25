@@ -1,4 +1,4 @@
-import main as t
+import coleta_dados as t
 import pandas as pd
 
 Nome1 = t.lista_nome_fatura_ordenada
