@@ -12,17 +12,18 @@ Nome da branch: fix/1234-atualizacao_readme
 Descrição: Atualizar o readme.md do projeto.
 
 #4345
-Nome da branch: fix/4345-informacoes_main
+Nome da branch: feature/4345-informacoes_main
 Descrição: Dar mais informações no arquivo main ao rodar o código, indicar que para parar a execução é necessário inserir -1.
 
 #2356
-Nome da branch: 2356/branch3
-Descrição: Lorem ipsum odor amet, consectetuer adipiscing elit. Tempus viverra mauris aenean, condimentum consectetur a. Consectetur porta vivamus accumsan lacinia ipsum interdum auctor efficitur. 
+Nome da branch: fix/2356-renomear_arquivos
+Descrição: Alterar o nome dos arquivos exec_integrado e main.
 
+(Branchs e alterações fictícias)
 #3243
-Nome da branch: 3243/branch4
+Nome da branch: feature/3243-branch4
 Descrição: Primis efficitur tincidunt primis rhoncus taciti. Adipiscing conubia condimentum nullam felis per nisl diam faucibus. 
 
 #6757
-Nome da branch: 6757/branch5
+Nome da branch: fix/6757-branch5
 Descrição: Dis nascetur egestas posuere condimentum ut ipsum platea sociosqu. Cursus vestibulum blandit ridiculus montes potenti sed ac. 
