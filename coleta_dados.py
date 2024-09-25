@@ -14,6 +14,7 @@ lista_nome_despesa = []
 lista_numero_despesa = []
 lista_valor_separado_d = []
 lista_valor_despesa = []
+#saasdashndas
 
 sentinela = -1
 
