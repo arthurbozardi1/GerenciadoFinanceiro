@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import main as t
+import coleta_dados as t
 
 plt.bar(t.lista_nome_fatura_ordenada, t.lista_valor_fatura_ordenada)
 plt.xlabel('Nome')
