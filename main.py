@@ -1,6 +1,7 @@
 #Começo
 start = input("Aperte 'ENTER' para iniciar:")
 print("\n\n--INICIANDO DADOS DE FATURAS--\n\n")
+print("Digite -1 a qualquer momento para interromper o código.")
 
 #Lista Faturas
 lista_nome_fatura = []
@@ -39,6 +40,7 @@ else:
 print("Salvo...\n")
 
 while True:
+    print("Digite -1 a qualquer momento para interromper o código.")
     nome_fatura = str(input("Nome: "))#Nome do oque foi ganho
     if nome_fatura == str(sentinela):
         break
@@ -64,6 +66,8 @@ while True:
 
 #Captação de dados Despesas
 print("\n\n--INICIANDO DADOS DE DESPESAS--\n\n")
+print("Digite -1 a qualquer momento para interromper o código.")
+
 inicio = input("Aperte 'ENTER' para continuar: ")
 
 nome_despesa = str(input("Digite o nome da sua despesa: "))#Nome do oque foi gasto
@@ -87,6 +91,7 @@ else:
 print("Salvo...\n")
 
 while True:
+    print("Digite -1 a qualquer momento para interromper o código.")
     nome_despesa = str(input("Nome: "))#Nome do oque foi gasto
     if nome_despesa == str(sentinela):
         break
