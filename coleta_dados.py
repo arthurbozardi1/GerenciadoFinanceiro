@@ -1,6 +1,6 @@
 #Começo
 start = input("Aperte 'ENTER' para iniciar:")
-print("\n\n--INICIANDO DADOS DE FATURAS--\n\n")
+print("\n--INICIANDO DADOS DE FATURAS--\n")
 print("Digite -1 a qualquer momento para interromper o código.")
 
 #Lista Faturas
