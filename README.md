@@ -1,7 +1,3 @@
-Aqui está o arquivo README formatado:
-
----
-
 # Processo de Desenvolvimento
 
 ## Estrutura de Branches
