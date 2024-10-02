@@ -44,11 +44,12 @@
 
 ---
 
-Esse processo garante a organização do código, a entrega contínua de novas funcionalidades e a resolução rápida de problemas em produção, mantendo a qualidade e a estabilidade do sistema.
 
-# Descrição
+# Descrição do Projeto
 
 Software amador desenvolvido em Python com o intuito de auxiliar como gestor financeiro. Pode ser utilizado em pequenas empresas ou para uso pessoal. O programa lê os dados e responde com uma opinião geral entre faturas e despesas, por meio de gráficos, planilhas CSV e informações gerais. Ele utiliza as bibliotecas matplotlib, pandas e time.
+
+Para rodar o código é necessário instalar as seguintes bibliotecas e executar o arquivo main.py 
 
 ## Bibliotecas do Python necessárias
 
